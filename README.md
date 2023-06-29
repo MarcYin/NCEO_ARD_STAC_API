@@ -7,7 +7,7 @@ feng.yin.15@ucl.ac.uk
 Department of Geography, University College London
 
 
-This is a STAC API implementation for the NCEO ARD data. It is based on the [stac-stac-fastapi-pgstac](https://github.com/stac-utils/stac-fastapi-pgstac/tree/main).
+This is a STAC API implementation for the NCEO ARD data. It is based on the [stac-fastapi-pgstac](https://github.com/stac-utils/stac-fastapi-pgstac/tree/main).
 
 ## Usage
 
