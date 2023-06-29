@@ -57,5 +57,5 @@ if __name__ == "__main__":
     with open(collection_file_path) as collection_file:
         collection = json.load(collection_file)
         
-    tiles = collection['links'][1:1000]
+    tiles = collection['links'][1:-1]
     new_items = download_tiles(tiles)
